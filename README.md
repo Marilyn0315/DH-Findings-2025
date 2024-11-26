@@ -31,3 +31,39 @@ Observations
 - for loop - run the function until the requirements are met
 - Note that computers 'think' in binary terms. Yes or no, never maybe and always objective
 - Flow chart activity - yes or no, process of buying chocolate ice cream, the conditions that can be answered with yes or no to meet the requirements to buy ice cream
+
+### Nov 26
+
+#### Jupyter Notebook
+
+Textual slicing
+- 0= 1st letter
+- 1= 2nd letter
+- 3= 3rd letter
+- so forth...
+
+Grouping words
+- same as slicing 
+- 0= 1st word/sentence depending on what you want to pull
+
+Camparison operators
+- used to compare two numbers or variables
+  - |==| Equal to
+  - |!=| Not equal to
+  - |<| Less than
+  - |>| Greater than
+  - |<=| Less than or equal to
+  - |>=| Greater than or equal to
+
+Boolean Operatora
+- 3 key boolean operators:
+  - and, or, and not
+  - true or false
+  - true and true
+  - false or false
+  - not false
+
+for loop
+- for (item you would like to iterate action)
+  - perform action
+
