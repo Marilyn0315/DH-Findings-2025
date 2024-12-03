@@ -67,3 +67,28 @@ for loop
 - for (item you would like to iterate action)
   - perform action
 
+### Dec 3
+#### Python 2 functions
+ Functions are blocks of reuseable code
+ - there are many functions such as "print()" or "len()" which were designed to perform specific tasks when called. 
+ - If there is a task you will need to repeat multiple times at various points, you can write a function 
+
+#### Wrangling Text Data
+- can use pre-written code: Natural Language Toolkit
+- Create process data
+  - Stopword lists 
+    - ignore specific words
+      - that are irrelevant, for example
+      - modify stopwords and punctuation lists like any other list
+        - to add multiple elements to a list at once, we use extend() rather that append()
+  - Tokenizing
+    - splitting up a larger body of text into smaller lines or words
+    - various tokenization functions are built into the NLTK library
+      - can break down parts of speech
+        - good for literary analysis
+  
+- prewritten code
+  - pre-written code is like pre-prepared meals/having ingredients ready to go
+- Pandas: pre-written code for tabular data
+  - python package for exploring, cleaning, and processing tabular data
+
